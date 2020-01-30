@@ -61,19 +61,20 @@ echo "my name is Eric"
 # now, really, answer the above question as yourself
 
 ```{bash}
+echo "my name is Jennifer"
 
 ```
 
 # print the absolute path of the top level of the homework directory where this is
 
 ```{bash}
-
+pwd
 ```
 
 # list, in long format, all the files and directories in this homework directory
 
 ```{bash}
-
+ls -l
 ```
 
 Note that some of the file names might look garbled in the Rmarkdown output.  This
